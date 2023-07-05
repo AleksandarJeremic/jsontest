@@ -15,7 +15,7 @@
       "size": 20,
       "group": "System",
       "name": "baseTypeKey",
-      "required": false,
+      "required": true,
       "value": "",
       "unique": false,
       "defaultValue": "",
