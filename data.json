@@ -646,7 +646,7 @@
       "isDisplayableOnList": true,
       "dataClassification": "DEFAULT",
       "fieldType": ""
-  }
+    }
   ],
   "superClassId": "d0aadfba-6549-4cd7-9314-5a94eaa47a6c",
   "objectType": "genericentity",
