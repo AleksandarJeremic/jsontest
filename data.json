@@ -652,7 +652,7 @@
   "objectType": "genericentity",
   "objectClass": "com.cloudleaf.cloudos.graph.core.dto.ClfNode",
   "scope": "Private",
-  "tenantId": "ecb9fc95-8461-4f18-9f97-eb2bda3fb974",
+  "tenantId": "06338f03-94e9-4687-b799-c8bc12640372",
   "show": true,
   "components": {},
   "additionalProperties": {
